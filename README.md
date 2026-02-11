@@ -1,6 +1,6 @@
 > Under Construction
 
-# Solving Forward and Inverse PDEs on Unknown Manifolds with Physics-Informed Neural Operators
+# Solving forward and inverse PDE problems on unknown manifolds via physics-informed neural operators
 
 The data and code for the paper [Solving forward and inverse partial differential equation problems on unknown manifolds via physics-informed neural operators](https://epubs.siam.org/doi/full/10.1137/24M1675254), *SIAM Journal on Scientific Computing*, 48 (1), C136–C163, 2026.
 
@@ -30,13 +30,13 @@ For physics-informed training with observational data, consistency between the d
 If you use this data or code for academic research, you are encouraged to cite the following paper:
 
 ```
-@article{Jiao2026PINOManifold,
+@article{jiao2026manifold,
   author  = {Jiao, Anran and Yan, Qile and Harlim, John and Lu, Lu},
   title   = {Solving forward and inverse partial differential equation problems on unknown manifolds via physics-informed neural operators},
   journal = {SIAM Journal on Scientific Computing},
   volume  = {48},
   number  = {1},
-  pages   = {C136--C163},
+  pages   = {C136-C163},
   year    = {2026},
   doi     = {https://doi.org/10.1137/24M1675254}
 }
