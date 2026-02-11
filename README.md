@@ -1,5 +1,3 @@
-> Under Construction
-
 # Solving forward and inverse PDE problems on unknown manifolds via physics-informed neural operators
 
 The data and code for the paper [Solving forward and inverse partial differential equation problems on unknown manifolds via physics-informed neural operators](https://epubs.siam.org/doi/full/10.1137/24M1675254), *SIAM Journal on Scientific Computing*, 48 (1), C136–C163, 2026.
